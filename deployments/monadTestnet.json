@@ -1,0 +1,14 @@
+{
+  "network": "monadTestnet",
+  "chainId": 10143,
+  "deployer": "0x0D9d3729a5191b298137e744c3e4add3A18e2BeD",
+  "timestamp": "2025-10-28T09:21:01.099Z",
+  "contracts": {
+    "faucet": "0xC6b69d83DB6d40B3b644436E3A36252801fc0f64",
+    "disperser": "0xF64B7430C95a24b5688A1c318405CEa3E2Fe453B",
+    "blackjack": "0x9376495F279Ef7c99b91A24Ee373D784cc74B09e",
+    "slots": "0xa189eCEd3384C617B1a024CD7799a05F50b55302",
+    "dice": "0x75EFCeb7Ba78CF4C795eDa462d111baEBf707faE",
+    "nft": "0x5617C2a0D939c46629F70Fa1b300BCD5bAC75644"
+  }
+}
